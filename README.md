@@ -7,7 +7,7 @@ Sencillo proyecto para "traducir" una secuencia de letras al número de iteracio
 - Ñ = 15
 - Z = 27
 - AA = 28
-- BC = 27
+- BC = 57
 - ZZ = 756
 - AAA = 757
 

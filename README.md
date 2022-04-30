@@ -13,7 +13,7 @@ Sencillo proyecto para "traducir" una secuencia de letras al número de iteracio
 
 
 ### Instrucciones
-Para utilizar la aplicación, simplemente ejecuta el .jar (necesario tener Java instalado) [pendiente].
+Para utilizar la aplicación, simplemente ejecuta el .jar (necesario tener Java instalado).
 
 Nota: Para salir en cualquier momento, introduce un 0 en el terminal. 
 1. Escribe la cadena que representa el estado actual del contador (al menos hipotéticamente).
